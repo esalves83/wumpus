@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="22" height="22" tilewidth="34" tileheight="34">
+ <tileset firstgid="1" name="isometric_grass_and_water" tilewidth="34" tileheight="34">
+  <image source="../../../../../../../usr/share/doc/tiled/examples/isometric_grass_and_water.png" width="256" height="384"/>
+ </tileset>
+ <tileset firstgid="78" name="dungeon_tiles" tilewidth="34" tileheight="34">
+  <image source="dungeon_tiles.png" width="368" height="384"/>
+ </tileset>
+ <tileset firstgid="188" name="wood_tileset" tilewidth="34" tileheight="34">
+  <image source="wood_tileset.png" width="512" height="512"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="22" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxjZWRgYKUyZoDSKQyomFKxUXNRzR2Nt6Fp7mi8DU1zR+NtaJpLi3ijFQYAh+5ogg==
+  </data>
+ </layer>
+</map>
